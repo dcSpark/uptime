@@ -4,17 +4,17 @@
     "url": "https://rpc-devnet-cardano-evm.c1.milkomeda.com/liveness",
     "icon": "https://favicons.githubusercontent.com/rpc-devnet-cardano-evm.c1.milkomeda.com",
     "slug": "c1-devnet-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "87.98%",
+    "uptimeDay": "87.97%",
     "uptimeWeek": "98.28%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.64%",
-    "time": 1091,
-    "timeDay": 4474,
-    "timeWeek": 2779,
-    "timeMonth": 1246,
-    "timeYear": 1091,
+    "time": 1120,
+    "timeDay": 4273,
+    "timeWeek": 2759,
+    "timeMonth": 1276,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2022-08-17": 172
     }
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/explorer-devnet-cardano-evm.c1.milkomeda.com",
     "slug": "c1-devnet-sidechain-explorer",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 304,
     "timeDay": 88,
     "timeWeek": 259,
     "timeMonth": 296,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2022-08-17": 0
+      "2022-08-17": 43
     }
   },
   {
