@@ -24,18 +24,20 @@
     "url": "https://explorer-devnet-cardano-evm.c1.milkomeda.com",
     "icon": "https://favicons.githubusercontent.com/explorer-devnet-cardano-evm.c1.milkomeda.com",
     "slug": "c1-devnet-sidechain-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 72,
-    "timeWeek": 281,
-    "timeMonth": 302,
-    "timeYear": 309,
-    "dailyMinutesDown": {}
+    "time": 304,
+    "timeDay": 88,
+    "timeWeek": 259,
+    "timeMonth": 296,
+    "timeYear": 304,
+    "dailyMinutesDown": {
+      "2022-08-17": 0
+    }
   },
   {
     "name": "C1 Mainnet RPC",
