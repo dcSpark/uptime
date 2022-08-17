@@ -24,19 +24,19 @@
     "url": "https://explorer-devnet-cardano-evm.c1.milkomeda.com",
     "icon": "https://favicons.githubusercontent.com/explorer-devnet-cardano-evm.c1.milkomeda.com",
     "slug": "c1-devnet-sidechain-explorer",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.89%",
-    "time": 304,
-    "timeDay": 88,
-    "timeWeek": 259,
-    "timeMonth": 296,
-    "timeYear": 304,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "94.66%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.84%",
+    "time": 299,
+    "timeDay": 104,
+    "timeWeek": 245,
+    "timeMonth": 291,
+    "timeYear": 299,
     "dailyMinutesDown": {
-      "2022-08-17": 51
+      "2022-08-17": 77
     }
   },
   {
