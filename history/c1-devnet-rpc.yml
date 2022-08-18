@@ -1,7 +1,7 @@
 url: https://rpc-devnet-cardano-evm.c1.milkomeda.com/liveness
-status: down
-code: 504
-responseTime: 10216
-lastUpdated: 2022-08-18T05:07:38.727Z
+status: up
+code: 200
+responseTime: 227
+lastUpdated: 2022-08-18T06:38:05.466Z
 startTime: Fri Jul 15 2022 11:04:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
