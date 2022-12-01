@@ -11,6 +11,14 @@ sites:
     url: https://rpc-mainnet-cardano-evm.c1.milkomeda.com/liveness
   - name: C1 Mainnet Sidechain Explorer
     url: https://explorer-mainnet-cardano-evm.c1.milkomeda.com
+  - name: A1 Devnet RPC
+    url: https://rpc-devnet-algorand-rollup.a1.milkomeda.com
+  - name: A1 Devnet L2 Explorer
+    url: https://explorer-devnet-algorand-rollup.a1.milkomeda.com
+  - name: A1 Mainnet RPC
+    url: https://rpc-mainnet-algorand-rollup.a1.milkomeda.com
+  - name: A1 Mainnet L2 Explorer
+    url: https://explorer-mainnet-algorand-rollup.a1.milkomeda.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
