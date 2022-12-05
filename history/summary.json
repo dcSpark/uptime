@@ -46,19 +46,19 @@
     "url": "https://rpc-mainnet-cardano-evm.c1.milkomeda.com/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/rpc-mainnet-cardano-evm.c1.milkomeda.com.ico",
     "slug": "c1-mainnet-rpc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 233,
-    "timeDay": 195,
-    "timeWeek": 205,
-    "timeMonth": 217,
-    "timeYear": 233,
+    "time": 234,
+    "timeDay": 247,
+    "timeWeek": 227,
+    "timeMonth": 225,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2022-12-05": 42
+      "2022-12-05": 48
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com",
     "icon": "https://icons.duckduckgo.com/ip3/explorer-mainnet-cardano-evm.c1.milkomeda.com.ico",
     "slug": "c1-mainnet-sidechain-explorer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 448,
-    "timeDay": 327,
-    "timeWeek": 414,
-    "timeMonth": 504,
-    "timeYear": 448,
+    "time": 452,
+    "timeDay": 579,
+    "timeWeek": 498,
+    "timeMonth": 530,
+    "timeYear": 452,
     "dailyMinutesDown": {
-      "2022-12-05": 16
+      "2022-12-05": 22
     }
   },
   {
@@ -122,19 +122,19 @@
     "url": "https://rpc-mainnet-algorand-rollup.a1.milkomeda.com",
     "icon": "https://icons.duckduckgo.com/ip3/rpc-mainnet-algorand-rollup.a1.milkomeda.com.ico",
     "slug": "a1-mainnet-rpc",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
-    "time": 213,
-    "timeDay": 215,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
+    "time": 230,
+    "timeDay": 250,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-12-05": 40
+      "2022-12-05": 45
     }
   },
   {
@@ -142,19 +142,19 @@
     "url": "https://explorer-mainnet-algorand-rollup.a1.milkomeda.com",
     "icon": "https://icons.duckduckgo.com/ip3/explorer-mainnet-algorand-rollup.a1.milkomeda.com.ico",
     "slug": "a1-mainnet-l2-explorer",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
-    "time": 275,
-    "timeDay": 274,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 304,
+    "timeDay": 332,
+    "timeWeek": 304,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2022-12-05": 38
+      "2022-12-05": 44
     }
   }
 ]
