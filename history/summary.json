@@ -86,19 +86,19 @@
     "url": "https://rpc-devnet-algorand-rollup.a1.milkomeda.com",
     "icon": "https://icons.duckduckgo.com/ip3/rpc-devnet-algorand-rollup.a1.milkomeda.com.ico",
     "slug": "a1-devnet-rpc",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 597,
-    "timeDay": 441,
-    "timeWeek": 571,
-    "timeMonth": 597,
-    "timeYear": 597,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 587,
+    "timeDay": 444,
+    "timeWeek": 555,
+    "timeMonth": 587,
+    "timeYear": 587,
     "dailyMinutesDown": {
-      "2022-12-15": 2
+      "2022-12-15": 31
     }
   },
   {
@@ -106,19 +106,19 @@
     "url": "https://explorer-devnet-algorand-rollup.a1.milkomeda.com",
     "icon": "https://icons.duckduckgo.com/ip3/explorer-devnet-algorand-rollup.a1.milkomeda.com.ico",
     "slug": "a1-devnet-l2-explorer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 834,
-    "timeDay": 610,
-    "timeWeek": 827,
-    "timeMonth": 834,
-    "timeYear": 834,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 822,
+    "timeDay": 626,
+    "timeWeek": 804,
+    "timeMonth": 822,
+    "timeYear": 822,
     "dailyMinutesDown": {
-      "2022-12-15": 0
+      "2022-12-15": 29
     }
   },
   {
